@@ -1,8 +1,8 @@
-## Oiii!! Eu sou Ane Rocha, iniciante na área de programação.
+## ✨ Oiii!! Eu sou Ane Rocha, iniciante na área de programação.✨
 
 <p align="center">
   <img alt="my stats" width="350" height="350" src="https://github-readme-stats.vercel.app/api?username=anerocha" style="display: inline-block;"/>
-  <img alt="top langs" width="350" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anerocha&layout=compact&langs_count=10" style="display: inline-block;"/>
+  <img alt="top langs" width="360" height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anerocha&layout=compact&langs_count=10" style="display: inline-block;"/>
 </p>
 
 
