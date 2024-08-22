@@ -6,10 +6,6 @@
 </p>
 
 
-<table align="right">
- <tr><td><a href="https://github.com/anerocga/anerocha/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/anerocha/anerocha/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
-</table>
 
 
 <div> 
