@@ -1,4 +1,4 @@
-## ✨ Oiii!! Eu sou Ane Rocha, estudante de análise de dados e iniciante na área de programação.✨
+## ✨Hey!! I'm Ane Rocha, data analysis student and beginner in programming.✨
 
 <p align="center">
   <img alt="my stats" width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=anerocha" style="display: inline-block;"/>
