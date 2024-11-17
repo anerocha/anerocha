@@ -1,6 +1,5 @@
-## ✨Hey!! I'm Geane.Transitioning to the technology area, with a focus on Data Analysis and Web Development.✨
-Currently, I am studying Data Analysis at EBAC and specializing in Web Development at Anhembi Morumbi University. I am developing skills in data interpretation, visualization and manipulation, as well as web technology practices to create effective solutions.
-
+## ✨Oi!! Sou a Geane. Estou em transição para a área de tecnologia, com foco em Análise de Dados e Desenvolvimento Web.✨
+Atualmente, estou estudando Análise de Dados na EBAC e me especializando em Desenvolvimento Web na Universidade Anhembi Morumbi. Estou desenvolvendo habilidades em interpretação, visualização e manipulação de dados, assim como práticas em tecnologias web para criar soluções eficazes.
 
 <p align="center">
   <img alt="my stats" width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=anerocha" style="display: inline-block;"/>
