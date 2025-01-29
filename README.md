@@ -3,10 +3,6 @@
 ✅ **Formação:** Análise de Dados - EBAC | Graduanda em Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi  
 ✅ **Habilidades:** SQL, Power BI, Python, Excel, AWS, HTML, CSS, JavaScript, React  
 
-## 🎓 Formação Acadêmica
-- **Tecnóloga em Análise de Dados** pela EBAC  
-- **Graduanda em Análise e Desenvolvimento de Sistemas** - Universidade Anhembi Morumbi
-
  
 
 <p align="center">
