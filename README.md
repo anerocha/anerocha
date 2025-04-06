@@ -1,7 +1,10 @@
-## ✨ Oi!! Sou a Geane. Estou em transição para a área de tecnologia, com foco em Análise de Dados e Desenvolvimento Web. ✨
+## ✨ Oi!! Sou a Geane. Estou em transição para a área de tecnologia, com foco em Análise de Dados e Engenharia de Dados. ✨
 ---
-✅ **Formação:** Análise de Dados - EBAC | Graduanda em Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi  
-✅ **Habilidades:** SQL, Power BI, Python, Excel, AWS, HTML, CSS, JavaScript, React  
+✅ Formação: Análise de Dados - EBAC | Graduanda em Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi | Graduanda em Banco de Dados
+
+✅ Habilidades: SQL, Power BI, Python (Pandas, NumPy, Matplotlib), Excel, AWS (Athena, S3), HTML, CSS, JavaScript, React
+
+✅ Experiência: Instrutora voluntária de SQL | Empreendedora por 4 anos no e-commerce de moda, atuando com marketing digital, análise de métricas e gestão de operações
 
  
 
