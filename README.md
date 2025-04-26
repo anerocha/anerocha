@@ -1,6 +1,6 @@
-## ✨ Oi!! Sou a Geane. Estou em transição para a área de tecnologia, com foco em Análise de Dados e Engenharia de Dados. ✨
+## ✨ Profissional em transição para a área de tecnologia, com foco em Análise de Dados, Banco de Dados e Engenharia de Dados.  ✨
 ---
-✅ Formação: Análise de Dados - EBAC | Graduanda em Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi | Graduanda em Banco de Dados
+✅ Formação: Análise de Dados - EBAC | Graduanda em Análise e Desenvolvimento de Sistemas | Graduanda em Banco de Dados
 
 ✅ Habilidades: SQL, Power BI, Python (Pandas, NumPy, Matplotlib), Excel, AWS (Athena, S3), HTML, CSS, JavaScript, React
 
